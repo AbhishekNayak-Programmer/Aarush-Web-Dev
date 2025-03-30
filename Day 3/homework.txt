@@ -1,0 +1,3 @@
+1. Add a Form in your website where user can fill name, email, phone number, address etc. and a submit button
+2. Add a section where on left side add a google map and right side add a youtube video.
+3. Create a table using table tags and add data of your choice inside that.
