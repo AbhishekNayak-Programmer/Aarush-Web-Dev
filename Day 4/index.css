@@ -1,0 +1,19 @@
+.design1 {
+  color: pink;
+}
+
+#unique {
+  color: blue;
+}
+
+.mytable {
+  color: green;
+  border: 2px solid red;
+  border-collapse: collapse;
+}
+
+.mytable th,
+.mytable td,
+.mytable tr {
+  border: 2px solid red;
+}

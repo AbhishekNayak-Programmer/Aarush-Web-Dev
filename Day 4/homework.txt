@@ -1,0 +1,4 @@
+Homework 
+1. Add a video to each section in your website.
+2. Add one music to your website which will be automatically played when you go live.
+3. Create a external file for css and link it to your HTML file and use some styles. to highlight the color of heading of your website.
