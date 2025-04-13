@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Lobster&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  background: #ffb3c6;
+  /* 
+  height: 100vh;
+  width: 100vw; 
+  */
+}
+
+.headline {
+  color: #0ca678;
+  font-size: 40px;
+  font-weight: 400; /* 100 200 300 400 500 600 700 800 900 1000  */
+  font-family: "Times New Roman", Times, serif;
+  font-family: "Lobster", sans-serif;
+  background-color: #90e0ef;
+  height: 48px;
+  width: 300px;
+}
+
+.sub-text {
+  color: #432818;
+  font-family: "Covered By Your Grace", cursive;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.para {
+  color: blue;
+  font-weight: 400;
+  font-family: "Quicksand", sans-serif;
+  font-size: 48px;
+  text-align: center; /* center start end */
+  background-color: #90e0ef;
+}
+
+.random-text {
+  color: blue;
+  font-weight: 400;
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  background-color: #90e0ef;
+  text-align: justify; /*left right justify */
+}
+
+.link {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 400;
+  text-decoration: none;
+  background-color: crimson;
+}
+
+.box {
+  height: 280px;
+  width: 400px;
+  background: url("https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
+    center center/cover;
+
+  background: url("img.jpg") center center/cover;
+}
+
+/* Homework
+1. Add a image using css [External Link] 
+2. Add a image using css [local file]
+*/
