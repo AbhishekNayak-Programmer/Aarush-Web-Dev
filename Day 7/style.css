@@ -1,0 +1,58 @@
+.box {
+  height: var(--myheight);
+  width: var(--mywidth);
+  background-color: green;
+  transition: all 0.6s ease-in-out; /*ease ease-in ease-out ease-in-out*/
+}
+
+.box:hover {
+  height: 400px;
+  width: 400px;
+  border-radius: 40px;
+  background-color: crimson;
+}
+
+.icon {
+  height: var(--myheight);
+}
+
+.box2 {
+  height: 300px;
+  width: var(--mywidth);
+  background-color: blueviolet;
+}
+
+.box3 {
+  height: 300px;
+  width: calc(100% - var(--mywidth));
+  background-color: darkgoldenrod;
+  opacity: 0.75; /*0.1 to 1.0*/
+}
+
+.myinput {
+  margin: 100px 0;
+  padding: 6px;
+  font-size: 20px;
+  outline-color: red;
+  outline: none;
+  border: none;
+  background: rgb(227, 199, 227);
+  caret-color: red;
+}
+
+.myinput::placeholder {
+  color: black;
+}
+
+.box4 {
+  height: 300px;
+  width: var(--mywidth);
+  background-color: var(--abhishek-color) !important;
+  background-color: blueviolet !important;
+}
+
+:root {
+  --abhishek-color: #63e6be;
+  --myheight: 200px;
+  --mywidth: 300px;
+}
