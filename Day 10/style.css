@@ -1,0 +1,85 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.box {
+  border: 2px solid green;
+  width: 200px;
+  height: 200px;
+  display: grid;
+  place-content: center;
+
+  position: relative;
+  top: 100px;
+  left: 200px;
+}
+
+.container {
+  width: 100%;
+  border: 2px solid red;
+}
+
+.box1 {
+  border: 2px solid green;
+  width: 200px;
+  height: 200px;
+  display: grid;
+  place-content: center;
+
+  position: relative;
+  right: -500px;
+  bottom: 200px;
+}
+
+.box3 {
+  border: 2px solid crimson;
+  height: 200px;
+  width: 200px;
+  display: grid;
+  place-content: center;
+
+  position: absolute;
+  left: 0;
+  top: 0;
+  /* bottom: 0; */
+  /* right: 0; */
+}
+
+.container2 {
+  height: 500px;
+  border: 20px ridge crimson;
+  width: 100%;
+  position: relative;
+}
+
+.box4 {
+  border: 5px solid purple;
+  height: 200px;
+  width: 200px;
+  display: grid;
+  place-content: center;
+  position: absolute;
+  /* right: 0; */
+  /* bottom: 0; */
+  top: calc((500px / 2) - (200px / 2) - 5px);
+  left: calc((100% / 2) - (200px / 2) - 5px);
+}
+
+.image {
+  position: sticky;
+  z-index: 1;
+  left: 200px;
+  top: 200px;
+  height: 250px;
+  width: 400px;
+}
+
+.insta {
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
