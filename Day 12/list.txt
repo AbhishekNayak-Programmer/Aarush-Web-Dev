@@ -1,0 +1,3 @@
+1. How to use Image and Linear Gradient at a time 
+2. Page Connection
+3. Style Connection
