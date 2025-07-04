@@ -1,0 +1,8 @@
+1. Animations in CSS
+2. What is JavaScript
+3. How you can connect JavaScript with HTML
+4. Console & log
+5. Variables - Let, Const, Var
+6. Arithmetic Operators in JavaScript (+, -, *, /)
+7. Datatypes - str, num, bool, undefined, null, object, arrays
+
