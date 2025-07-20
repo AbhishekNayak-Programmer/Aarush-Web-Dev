@@ -1,12 +1,2 @@
-1. Math Methods
-2. Document in JavaScript
-3. Selecting Id and Classes using JavaScript
-4. Dynamic Typed Programming Languages
-5. Assignment Operators (+=, -=, *=, /=)
-6. Comparison Operators (>=, >, <, <=, ==, ===)
-7. If Else Conditions & If else ladder 
-8. Switch Case
-9. Loops and Types of Loops
-10. For Loop 
-11. While Loop
-12. Do While Loop
+1. Media Queries
+2. Math Methods
