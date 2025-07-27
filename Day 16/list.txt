@@ -1,0 +1,6 @@
+1. Document in JavaScript
+2. Selecting Id and Classes using JavaScript
+3. Dynamic Typed Programming Languages
+4. Assignment Operators (+=, -=, *=, /=)
+5. Comparison Operators (>=, >, <, <=, ==, ===)
+6. If Else Conditions & If else ladder 
