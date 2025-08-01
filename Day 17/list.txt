@@ -1,0 +1,11 @@
+1. Switch Case
+2. For Loop 
+3. While Loop
+4. Do While Loop
+5. Break and Continue
+6. Arrays and Methods
+7. Set and Methods
+8. Object
+9.typeof
+10. Gates [AND, OR, NOT]
+11. Map
