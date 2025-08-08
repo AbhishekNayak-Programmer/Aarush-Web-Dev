@@ -1,0 +1,9 @@
+1. While Loop
+2. Do While Loop
+3. Arrays
+
+// Continue with Array methods
+1. Array Methods
+2. Object
+3. typeof
+4. Gates [AND, OR, NOT]
