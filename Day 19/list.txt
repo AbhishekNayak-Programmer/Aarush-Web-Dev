@@ -1,0 +1,7 @@
+1. Array Methods
+// To be done
+2. Object
+3. typeof
+4. Gates [AND, OR, NOT]
+5. Functions All types
+6. Map, Filter, Reduce
