@@ -1,0 +1,8 @@
+1. Object
+2. typeof
+3. Gate [AND, OR, NOT]
+4. Functions All types
+
+// To Be Done
+5. Map, Filter, Reduce
+6. Class
