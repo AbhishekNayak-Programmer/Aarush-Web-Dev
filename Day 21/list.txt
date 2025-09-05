@@ -1,0 +1,4 @@
+1. Map, Filter, Reduce
+
+// To be done
+2. Class
