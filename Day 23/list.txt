@@ -1,0 +1,13 @@
+1. Alerts, Prompt, Confirm
+2. Template Literals
+3. Double click event
+4. Multipage Connection
+5. Fetch Request 
+6. Async Await in JS
+
+// To be Done
+1. Creating Elements in JavaScript and inserting to HTML
+2. Insert Adjacent HTML
+3. Animations using Animate.css and Wow.js
+4. Import and Exporting
+5. Date, Time and SetTimeout and SetInterval
