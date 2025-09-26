@@ -1,0 +1,7 @@
+1. Creating Elements in JavaScript and inserting to HTML
+2. Insert Adjacent HTML
+3. Date, Time and SetTimeout and SetInterval
+
+// To be Done
+1. Animations using Animate.css and Wow.js
+2. Import and Exporting
